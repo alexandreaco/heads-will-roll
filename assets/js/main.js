@@ -73,7 +73,7 @@ for (var i = 0; i < numFaces; i += 1) {
     friction: 0.01,
     render: {
       sprite: {
-        texture: './img/' + faceName + '.png',
+        texture: 'assets/img/' + faceName + '.png',
         xScale: 0.25,
         yScale: 0.25
       }
@@ -113,7 +113,7 @@ var addPerson = function() {
     friction: 0.01,
     render: {
       sprite: {
-        texture: './img/' + newFace + '.png',
+        texture: 'assets/img/' + newFace + '.png',
         xScale: 0.25,
         yScale: 0.25
       }
