@@ -9,7 +9,7 @@ var Engine = Matter.Engine,
     Composites = Matter.Composites,
     MouseConstraint = Matter.MouseConstraint,
     canvasWidth = 1200,
-    canvasHeight = 1000;
+    canvasHeight = 800;
 
 // Capture Faces
 var svgs = [
